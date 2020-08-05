@@ -1,2 +1,2 @@
-Languages » Rust · C · C++ · Python
-Interwebs » [https://bloerg.net](bloerg.net)
+Languages » Rust · C · C++ · Python<br/>
+Interwebs » [bloerg.net](https://bloerg.net)
