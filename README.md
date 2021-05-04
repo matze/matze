@@ -1,1 +1,1 @@
-Languages » Rust · C · C++ · Python
+Rust · C · C++ · Python
