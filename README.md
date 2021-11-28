@@ -1,1 +1,1 @@
-Rust · C · C++ · Python
+**Rust** · C · C++ · Python — Systems · Embedded · Backend · Frontend
